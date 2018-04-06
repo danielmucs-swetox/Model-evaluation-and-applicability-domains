@@ -1,7 +1,7 @@
 # Model-evaluation-and-applicability-domains
-Example KNIME workflows for the "Model evaluation and applicability domains" chapter
+Example KNIME workflows for the "Model evaluation and applicability domains" chapter.
 
-Please note, the instruction are for Windows, but should follow similar steps for Linux and Mac as well
+Please note, these instructions are for Windows, but should follow similar steps for Linux and Mac as well.
 
 1. Download and install KNIME Analytics Platform (https://www.knime.com/downloads/download-knime)
 2. Download and install R (https://cran.r-project.org/mirrors.html)
